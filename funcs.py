@@ -1,12 +1,3 @@
-# solver.py
-
-#DOCUMENTATION
-#Use of math and random library for floor and random functions
-#solve(board) solves input list and returns True if succesful, else False
-#valid(board, num, pos) returns Boolean according to validity of given number
-#find_empty(board) returns first vacant cell row, col if present else None
-#random_grid(level) returns list according to level of difficulty chosen by user
-
 import random
 
 def solve(board):
